@@ -43,3 +43,13 @@ O JUnit5 oferece uma variedade de assertions que podem ser usadas para validar o
 - `assertFalse(condition)` - Verifica se a condição é falsa.
 - `assertThrows(expectedType, executable)` - Verifica se o código lançado lança uma exceção do tipo esperado.
 
+
+#### Certificados:
+- Gerenciamento de Dependências e Build em Java com Maven:
+https://www.dio.me/certificate/CEMZOJ2X/share
+- Introdução a Testes de Software:
+https://www.dio.me/certificate/MAPYJXVW/share
+- Testes Unitários Com JUnit:
+https://www.dio.me/certificate/IB1LPHFY/share
+
+
