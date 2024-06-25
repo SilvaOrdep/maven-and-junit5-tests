@@ -46,10 +46,11 @@ O JUnit5 oferece uma variedade de assertions que podem ser usadas para validar o
 
 #### Certificados:
 - Gerenciamento de Dependências e Build em Java com Maven:
-https://www.dio.me/certificate/CEMZOJ2X/share
+[Certificado em Maven](https://www.dio.me/certificate/CEMZOJ2X/share)
 - Introdução a Testes de Software:
-https://www.dio.me/certificate/MAPYJXVW/share
+[Certificado em Int. Teste de Softwares](https://www.dio.me/certificate/MAPYJXVW/share)
 - Testes Unitários Com JUnit:
-https://www.dio.me/certificate/IB1LPHFY/share
+[Certificado em Testes com JUnit5](https://www.dio.me/certificate/IB1LPHFY/share)
+
 
 
