@@ -13,3 +13,33 @@ Aqui estão alguns comandos Maven que foram utilizados durante este projeto de t
 - **Criar projeto:**
   ```sh
   mvn archetype:generate -DgroupId=one.digitalinovation -DartifactId=quick-start-maven -Darchetype=maven-archetype-quickstart -DinteractiveMode=false
+
+- **Compilar projeto:**
+  ```sh
+  mvn compile
+  //Compila as classes fontes do projeto.
+
+- **Testar projeto:**
+  ```sh
+  mvn test
+
+- **Empacotar/Criar JAR:**
+  ```sh
+  mvn package
+
+- **Apagar o diretório de trabalho/target:**
+  ```sh
+  mvn clean
+
+## Sobre o JUnit5
+
+JUnit5 é um framework para a criação e execução de testes unitários em Java. 
+
+### Assertions no JUnit5
+O JUnit5 oferece uma variedade de assertions que podem ser usadas para validar o comportamento do código(exemplos):
+
+- `assertEquals(expected, actual)` - Verifica se os valores esperados e reais são iguais.
+- `assertTrue(condition)` - Verifica se a condição é verdadeira.
+- `assertFalse(condition)` - Verifica se a condição é falsa.
+- `assertThrows(expectedType, executable)` - Verifica se o código lançado lança uma exceção do tipo esperado.
+
